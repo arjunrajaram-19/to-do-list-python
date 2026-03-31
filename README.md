@@ -33,6 +33,8 @@ All data is saved automatically in a file.
 
 python main.py
 
+## Screenshot
 
+![App Screenshot](Screenshot.png)
 
 
